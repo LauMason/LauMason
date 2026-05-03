@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋 This is Minxu Liu
 
-<!--
-**LauMason/LauMason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 Incoming graduate student at the **College of Artificial Intelligence, Zhejiang University**
+* 🧠 Interested in **EEG-based visual decoding** and **multimodal representation learning**
+* 🔬 Working on bridging **brain signals and vision-language models**
+* 📄 First-author papers at top venues including ICML, IEEE TCDS, and ICME
 
-Here are some ideas to get you started:
+📫 Email: [liuminxu@nuaa.edu.cn](mailto:liuminxu@nuaa.edu.cn)
+🌐 Homepage: https://LauMason.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LauMason&show_icons=true&include_all_commits=true" />
+</p>
