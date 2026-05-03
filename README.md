@@ -9,5 +9,5 @@
 🌐 Homepage: https://LauMason.github.io
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LauMason&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LauMason&show_icons=true&include_all_commits=true" />
 </p>
