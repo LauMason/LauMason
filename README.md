@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Minxu Liu
 
-* 🎓 Incoming graduate student at the **College of Artificial Intelligence, Zhejiang University**
+* 🎓 PhD Candidate at the **College of Artificial Intelligence, Zhejiang University**
 * 🧠 Interested in **EEG-based visual decoding** and **multimodal representation learning**
 * 🔬 Working on bridging **brain signals and vision-language models**
 * 📄 First-author papers at top conferences and journals, including ICML, IEEE TCDS, and ICME
