@@ -5,6 +5,6 @@
 * 🔬 Working on bridging **brain signals and vision-language models**
 * 📄 First-author papers at top conferences and journals, including ICML, IEEE TCDS, and ICME
 
-📫 Email: [liuminxu@nuaa.edu.cn](mailto:liuminxu@nuaa.edu.cn)
+📫 Email: [liuminxu@zju.edu.cn](mailto:liuminxu@zju.edu.cn)
 
 🌐 Homepage: https://LauMason.github.io
